@@ -1,0 +1,101 @@
+﻿content_id,title,content_type,genre,language,release_year,age_rating,duration_minutes,seasons,episodes,imdb_rating,country
+JH001,The Last Monsoon,TV Show,Romance,Telugu,2012,U/A 7+,,1.0,7.0,8.1,Australia
+JH002,City of Dreams,Movie,Family,Marathi,2006,U,96.0,,,5.4,United States
+JH003,Rang Mahal,Movie,Family,Hindi,2022,U/A 7+,149.0,,,8.0,Australia
+JH004,Beyond the Boundary,TV Show,Sports,Malayalam,2005,U/A 7+,,4.0,20.0,7.9,United Kingdom
+JH005,The Silent River,Movie,Action,Telugu,2015,U,120.0,,,5.4,India
+JH006,Campus Diaries,Movie,Crime,Malayalam,2006,U/A 16+,130.0,,,7.3,Canada
+JH007,Kingdom of Ash,TV Show,Romance,Bengali,2023,U/A 7+,,1.0,41.0,8.0,India
+JH008,Mitti Ke Rang,Movie,Thriller,Malayalam,2007,U/A 7+,169.0,,,8.6,Canada
+JH009,Code Red,Movie,Sports,Bengali,2010,U/A 13+,120.0,,,6.5,United Kingdom
+JH010,The Hidden Truth,TV Show,Sci-Fi,Tamil,2022,U/A 7+,,1.0,44.0,5.7,Canada
+JH011,Ocean's Call,Movie,Sci-Fi,Telugu,2015,U,119.0,,,6.0,India
+JH012,Family Junction,Movie,Documentary,Malayalam,2007,U/A 7+,125.0,,,8.8,Australia
+JH013,The Final Over,TV Show,Sci-Fi,Kannada,2017,U/A 16+,,3.0,19.0,5.6,United States
+JH014,Midnight Express,Movie,Adventure,Malayalam,2023,U/A 16+,116.0,,,8.8,Canada
+JH015,Golden Horizon,Movie,Thriller,Tamil,2021,U/A 16+,131.0,,,5.4,India
+JH016,Broken Promises,TV Show,Sci-Fi,Tamil,2018,A,,1.0,15.0,5.3,Canada
+JH017,Wild India,Movie,Sports,Malayalam,2022,U,161.0,,,7.9,India
+JH018,The Long Road,Movie,Adventure,Malayalam,2025,U/A 13+,172.0,,,5.5,Canada
+JH019,Shadow Protocol,TV Show,Drama,Malayalam,2021,U/A 7+,,2.0,35.0,7.1,India
+JH020,Homecoming,Movie,Romance,Telugu,2009,U/A 13+,165.0,,,8.2,Australia
+JH021,Chasing Stars,Movie,Drama,Bengali,2020,U,152.0,,,5.5,United Kingdom
+JH022,The Great Escape,TV Show,Drama,Telugu,2023,U,,3.0,21.0,5.4,Canada
+JH023,Dilli Junction,Movie,Adventure,Tamil,2009,U/A 16+,93.0,,,9.0,United States
+JH024,The Forgotten Fort,Movie,Adventure,Marathi,2011,A,118.0,,,8.2,United States
+JH025,Rising Phoenix,TV Show,Sci-Fi,Bengali,2019,A,,3.0,31.0,6.9,United States
+JH026,Love in Transit,Movie,Comedy,Bengali,2005,A,113.0,,,7.3,Australia
+JH027,The Blue Planet,Movie,Drama,English,2025,U,113.0,,,6.0,India
+JH028,Courtroom 24,TV Show,Adventure,Telugu,2013,U/A 16+,,3.0,10.0,5.9,United States
+JH029,Desert Storm,Movie,Family,Kannada,2012,U/A 16+,177.0,,,8.4,United States
+JH030,A New Beginning,Movie,Comedy,Marathi,2016,U/A 16+,97.0,,,6.7,India
+JH031,The Last Monsoon 2,TV Show,Documentary,Bengali,2008,U/A 7+,,1.0,9.0,5.8,Australia
+JH032,City of Dreams 2,Movie,Action,Marathi,2010,U/A 13+,142.0,,,6.9,India
+JH033,Rang Mahal 2,Movie,Adventure,English,2006,A,141.0,,,8.5,India
+JH034,Beyond the Boundary 2,TV Show,Documentary,Kannada,2020,U/A 7+,,2.0,16.0,8.6,India
+JH035,The Silent River 2,Movie,Documentary,Hindi,2017,U/A 13+,106.0,,,8.9,Canada
+JH036,Campus Diaries 2,Movie,Documentary,Kannada,2009,U/A 7+,121.0,,,6.2,India
+JH037,Kingdom of Ash 2,TV Show,Drama,Bengali,2006,U,,5.0,40.0,7.5,Australia
+JH038,Mitti Ke Rang 2,Movie,Action,Hindi,2021,U,152.0,,,8.6,India
+JH039,Code Red 2,Movie,Comedy,Telugu,2017,U,161.0,,,9.0,Australia
+JH040,The Hidden Truth 2,TV Show,Family,Hindi,2024,U,,2.0,43.0,6.8,Australia
+JH041,Ocean's Call 2,Movie,Adventure,Bengali,2013,U/A 7+,157.0,,,7.8,United Kingdom
+JH042,Family Junction 2,Movie,Romance,Marathi,2009,U/A 13+,115.0,,,6.9,India
+JH043,The Final Over 2,TV Show,Family,English,2007,A,,1.0,35.0,5.9,United Kingdom
+JH044,Midnight Express 2,Movie,Crime,English,2012,U/A 13+,101.0,,,6.2,Canada
+JH045,Golden Horizon 2,Movie,Romance,Hindi,2022,U/A 13+,154.0,,,8.9,India
+JH046,Broken Promises 2,TV Show,Comedy,English,2022,U/A 7+,,2.0,22.0,6.1,Australia
+JH047,Wild India 2,Movie,Crime,Telugu,2025,U/A 13+,111.0,,,7.1,United Kingdom
+JH048,The Long Road 2,Movie,Comedy,Marathi,2013,U,91.0,,,5.0,United States
+JH049,Shadow Protocol 2,TV Show,Sports,Marathi,2022,U,,3.0,16.0,5.5,United States
+JH050,Homecoming 2,Movie,Drama,Bengali,2023,A,154.0,,,5.6,United States
+JH051,Chasing Stars 2,Movie,Romance,Bengali,2006,U/A 13+,90.0,,,5.9,United States
+JH052,The Great Escape 2,TV Show,Adventure,Marathi,2024,U/A 7+,,1.0,28.0,8.9,United States
+JH053,Dilli Junction 2,Movie,Action,Marathi,2005,U/A 7+,105.0,,,8.1,United Kingdom
+JH054,The Forgotten Fort 2,Movie,Sci-Fi,Telugu,2013,U/A 7+,137.0,,,8.3,India
+JH055,Rising Phoenix 2,TV Show,Sports,Telugu,2011,U/A 16+,,4.0,8.0,6.5,United States
+JH056,Love in Transit 2,Movie,Drama,Telugu,2017,U/A 13+,113.0,,,6.2,India
+JH057,The Blue Planet 2,Movie,Crime,Marathi,2022,U/A 13+,120.0,,,8.9,India
+JH058,Courtroom 24 2,TV Show,Family,Malayalam,2006,U,,3.0,17.0,7.5,United Kingdom
+JH059,Desert Storm 2,Movie,Crime,Marathi,2024,A,178.0,,,5.5,Australia
+JH060,A New Beginning 2,Movie,Romance,Hindi,2018,U,109.0,,,7.2,Australia
+JH061,The Last Monsoon 3,TV Show,Documentary,English,2015,A,,2.0,29.0,6.3,India
+JH062,City of Dreams 3,Movie,Romance,Malayalam,2018,U/A 13+,177.0,,,6.7,United Kingdom
+JH063,Rang Mahal 3,Movie,Action,Telugu,2018,U/A 16+,155.0,,,7.8,United States
+JH064,Beyond the Boundary 3,TV Show,Romance,Marathi,2022,U,,5.0,42.0,6.3,United States
+JH065,The Silent River 3,Movie,Family,Bengali,2019,U/A 16+,140.0,,,6.9,United States
+JH066,Campus Diaries 3,Movie,Sports,Tamil,2007,U/A 13+,150.0,,,7.2,Australia
+JH067,Kingdom of Ash 3,TV Show,Thriller,Malayalam,2012,U/A 7+,,3.0,11.0,5.6,India
+JH068,Mitti Ke Rang 3,Movie,Sports,English,2019,U/A 16+,116.0,,,8.7,Australia
+JH069,Code Red 3,Movie,Documentary,Kannada,2017,U/A 7+,109.0,,,5.6,India
+JH070,The Hidden Truth 3,TV Show,Thriller,Tamil,2021,U/A 16+,,1.0,33.0,5.2,United States
+JH071,Ocean's Call 3,Movie,Sports,Tamil,2019,A,100.0,,,9.1,Australia
+JH072,Family Junction 3,Movie,Sports,Marathi,2022,U/A 16+,125.0,,,8.8,Canada
+JH073,The Final Over 3,TV Show,Thriller,Malayalam,2021,U/A 16+,,4.0,22.0,7.6,United Kingdom
+JH074,Midnight Express 3,Movie,Comedy,Malayalam,2012,U/A 13+,141.0,,,6.4,Australia
+JH075,Golden Horizon 3,Movie,Action,Tamil,2012,U/A 16+,95.0,,,7.9,United States
+JH076,Broken Promises 3,TV Show,Documentary,Bengali,2022,U/A 16+,,1.0,32.0,6.7,United States
+JH077,Wild India 3,Movie,Documentary,Hindi,2023,U/A 16+,138.0,,,7.0,United Kingdom
+JH078,The Long Road 3,Movie,Documentary,Marathi,2022,A,123.0,,,8.4,United States
+JH079,Shadow Protocol 3,TV Show,Romance,Marathi,2020,U,,4.0,20.0,6.6,Canada
+JH080,Homecoming 3,Movie,Action,Kannada,2009,A,177.0,,,7.2,Canada
+JH081,Chasing Stars 3,Movie,Family,Hindi,2007,U/A 16+,160.0,,,5.6,Canada
+JH082,The Great Escape 3,TV Show,Romance,Marathi,2015,U/A 7+,,2.0,9.0,6.9,United Kingdom
+JH083,Dilli Junction 3,Movie,Romance,Marathi,2013,U,133.0,,,7.0,Australia
+JH084,The Forgotten Fort 3,Movie,Crime,Telugu,2025,U,91.0,,,8.3,India
+JH085,Rising Phoenix 3,TV Show,Thriller,Hindi,2024,U/A 7+,,1.0,21.0,6.0,Canada
+JH086,Love in Transit 3,Movie,Comedy,Telugu,2019,U/A 13+,170.0,,,8.2,United States
+JH087,The Blue Planet 3,Movie,Family,English,2010,U/A 13+,162.0,,,5.5,India
+JH088,Courtroom 24 3,TV Show,Sci-Fi,Marathi,2017,U/A 7+,,3.0,42.0,5.3,United States
+JH089,Desert Storm 3,Movie,Romance,English,2023,U,98.0,,,6.5,Canada
+JH090,A New Beginning 3,Movie,Crime,English,2021,U/A 13+,169.0,,,5.1,Canada
+JH091,The Last Monsoon 4,TV Show,Documentary,Bengali,2025,U/A 16+,,4.0,12.0,8.0,Canada
+JH092,City of Dreams 4,Movie,Adventure,Malayalam,2024,A,107.0,,,8.3,Canada
+JH093,Rang Mahal 4,Movie,Family,Malayalam,2015,U/A 7+,140.0,,,8.5,India
+JH094,Beyond the Boundary 4,TV Show,Thriller,Kannada,2023,A,,3.0,34.0,7.8,United Kingdom
+JH095,The Silent River 4,Movie,Sports,Bengali,2010,U/A 16+,88.0,,,5.9,United Kingdom
+JH096,Campus Diaries 4,Movie,Romance,Malayalam,2022,U,128.0,,,7.2,United States
+JH097,Kingdom of Ash 4,TV Show,Documentary,Kannada,2022,U/A 7+,,1.0,21.0,7.9,Canada
+JH098,Mitti Ke Rang 4,Movie,Drama,English,2014,U/A 7+,142.0,,,6.7,United States
+JH099,Code Red 4,Movie,Sci-Fi,Bengali,2020,A,124.0,,,7.2,Canada
+JH100,The Hidden Truth 4,TV Show,Crime,Kannada,2013,U/A 13+,,5.0,27.0,6.1,India
